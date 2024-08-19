@@ -16,32 +16,34 @@ https://readme-typing-svg.herokuapp.com/demo/
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=CD00FFFF&center=true&vCenter=true&width=435&lines=Developer;Problem+Solver;Linux+Enthusiast;Homelab+Enthusiast;Proxmox+User" alt="Typing SVG"/>
 </p>
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://github.com/fuchs-fabian" target="_blank">
-        <!--
-        https://bentos.jkominovic.dev/
-        -->
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2Ffuchs-fabian&subtitle=%2FFabian+Fuchs&size=square" alt="GitHub Profile Fabian Fuchs"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://gitlab.com/fuchs-fabian" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgitlab.com%2Ffuchs-fabian&subtitle=%2FFabian+Fuchs&size=square" alt="GitLab Profile Fabian Fuchs"/>
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <a href="https://github.com/fuchs-fabian" target="_blank">
+          <!--
+          https://bentos.jkominovic.dev/
+          -->
+          <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2Ffuchs-fabian&subtitle=%2FFabian+Fuchs&size=square" alt="GitHub Profile Fabian Fuchs"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://gitlab.com/fuchs-fabian" target="_blank">
+          <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgitlab.com%2Ffuchs-fabian&subtitle=%2FFabian+Fuchs&size=square" alt="GitLab Profile Fabian Fuchs"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <h2 align="center">🚀 About Me</h2>
 
 <div align="center">
   As a versatile developer, I specialise in tackling everyday challenges, often focusing on those that arise in Linux environments and beyond.
   
-  In my spare time, I channel my passion for problem solving into my homelab, which I manage with [Proxmox](https://www.proxmox.com/en/).
+  In my spare time, I channel my passion for problem solving into my homelab, which I manage with <a href="https://www.proxmox.com/en/" target="_blank">Proxmox</a>.
 
-  One of my wishes is that non-IT experts will also place more value on [free and open source software (FOSS)](https://en.wikipedia.org/wiki/Free_and_open-source_software) in the future and that they will be more informed about what happens to the data they have with proprietary software.
+  One of my wishes is that non-IT experts will also place more value on <a href="https://en.wikipedia.org/wiki/Free_and_open-source_software" target="_blank">free and open source software (FOSS)</a> in the future and that they will be more informed about what happens to the data they have with proprietary software.
 </div>
 
 <h3 align="center">📈 GitHub Stats</h3>
@@ -82,10 +84,10 @@ https://techstack-generator.vercel.app
 -->
 
 <div align="center">
-  <table style="background-color: #2D2D2D; border-radius: 15px; display: inline-block;">
+  <table>
     <thead>
       <tr>
-        <th colspan="10" align="center" style="color: white;">Languages</th>
+        <th colspan="10" align="center">Languages</th>
       </tr>
     </thead>
     <tbody>
@@ -126,10 +128,10 @@ https://techstack-generator.vercel.app
 </div>
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px;">
-  <table style="background-color: #2D2D2D; border-radius: 15px; display: inline-block;">
+  <table>
     <thead>
       <tr>
-        <th colspan="2" align="center" style="color: white;">API Development</th>
+        <th colspan="2" align="center">API Development</th>
       </tr>
     </thead>
     <tbody>
@@ -144,10 +146,10 @@ https://techstack-generator.vercel.app
     </tbody>
   </table>
 
-  <table style="background-color: #2D2D2D; border-radius: 15px; display: inline-block;">
+  <table>
     <thead>
       <tr>
-        <th colspan="1" align="center" style="color: white;">Database</th>
+        <th colspan="1" align="center">Database</th>
       </tr>
     </thead>
     <tbody>
@@ -161,10 +163,10 @@ https://techstack-generator.vercel.app
 </div>
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px;">
-  <table style="background-color: #2D2D2D; border-radius: 15px; display: inline-block;">
+  <table>
     <thead>
       <tr>
-        <th colspan="2" align="center" style="color: white;">Virtualization & Containerization</th>
+        <th colspan="2" align="center">Virtualization & Containerization</th>
       </tr>
     </thead>
     <tbody>
@@ -179,10 +181,10 @@ https://techstack-generator.vercel.app
     </tbody>
   </table>
 
-  <table style="background-color: #2D2D2D; border-radius: 15px; display: inline-block;">
+  <table>
     <thead>
       <tr>
-        <th colspan="3" align="center" style="color: white;">Operating Systems</th>
+        <th colspan="3" align="center">Operating Systems</th>
       </tr>
     </thead>
     <tbody>
@@ -297,49 +299,47 @@ https://techstack-generator.vercel.app
 
 <h2 align="center">💰 Support Me</h2>
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://www.paypal.com/donate/?hosted_button_id=4G9X8TDNYYNKG" target="_blank">
-        <!--
-        https://github.com/stefan-niedermann/paypal-donate-button
-        -->
-        <img src="https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png" style="height: 90px; width: 217px;" alt="Donate with PayPal"/>
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table align="center">
+    <tr>
+      <td>
+        <a href="https://www.paypal.com/donate/?hosted_button_id=4G9X8TDNYYNKG" target="_blank">
+          <!--
+          https://github.com/stefan-niedermann/paypal-donate-button
+          -->
+          <img src="https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png" style="height: 90px; width: 217px;" alt="Donate with PayPal"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <h2 align="center">📫 Let's Connect!</h2>
 
 <div align="center">
-  <a href="https://matrix.to/#/@fuchsf:matrix.org" style="font-size: 1.2em;" target="_blank">
-    <div style="background-color: #2D2D2D; border-radius: 15px; padding: 10px; display: inline-block;">
-      <table>
-        <tr>
-          <td>
-            <img src="https://matrix.org/images/matrix-logo-white.svg" height="30" alt="Matrix Icon"/>
-          </td>
-          <td>
-            <img src="https://element.io/images/logo-mark-primary.svg" height="30" alt="Element Icon"/>
-          </td>
-        </tr>
-      </table>
-      <a href="https://matrix.to/#/@fuchsf:matrix.org" style="font-size: 1.2em;" target="_blank">@fuchsf:matrix.org</a>
-    </a>
-  </div>
+  <table>
+    <tr>
+      <td>
+        <img src="https://matrix.org/images/matrix-logo-white.svg" height="30" alt="Matrix Icon"/>
+      </td>
+      <td>
+        <img src="https://element.io/images/logo-mark-primary.svg" height="30" alt="Element Icon"/>
+      </td>
+    </tr>
+  </table>
+  <a href="https://matrix.to/#/@fuchsf:matrix.org" style="font-size: 1.2em;" target="_blank">@fuchsf:matrix.org</a>
 </div>
 
 <br>
 
 <table align="center">
   <tr>
-    <td align="center">
+    <td>
       <a href="https://www.linkedin.com/in/fabian-f-1979701b1/" target="_blank">
         <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Ffabian-f-1979701b1%2F&subtitle=@Fabian+Fuchs&size=square" alt="Linkedin Fabian Fuchs"/>
       </a>
     </td>
-    <td align="center">
+    <td>
       <a href="https://discordapp.com/users/535581660067004491" target="_blank">
         <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fdiscordapp.com%2Fusers%2F535581660067004491&subtitle=fuchsf01&size=square" alt="Discord fuchsf01">
       </a>
@@ -349,8 +349,7 @@ https://techstack-generator.vercel.app
 
 <h3>
   <div align="center">
-  
-  ⭐️ From [Fabian Fuchs](https://github.com/fuchs-fabian) | Let's simplify everyday FOSS life together 🚀
+    ⭐️ From <a href="https://github.com/fuchs-fabian" target="_blank">Fabian Fuchs</a> | Let's simplify everyday FOSS life together 🚀
   </div>
 </h3>
 
