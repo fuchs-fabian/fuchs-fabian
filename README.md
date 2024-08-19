@@ -325,7 +325,7 @@ https://techstack-generator.vercel.app
           </td>
         </tr>
       </table>
-      @fuchsf:matrix.org
+      <a href="https://matrix.to/#/@fuchsf:matrix.org" style="font-size: 1.2em;" target="_blank">@fuchsf:matrix.org</a>
     </a>
   </div>
 </div>
