@@ -127,6 +127,8 @@ https://techstack-generator.vercel.app
   </table>
 </div>
 
+<br>
+
 <div align="center" style="display: flex; justify-content: center; gap: 20px;">
   <table>
     <thead>
@@ -161,6 +163,8 @@ https://techstack-generator.vercel.app
     </tbody>
   </table>
 </div>
+
+<br>
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px;">
   <table>
@@ -300,7 +304,7 @@ https://techstack-generator.vercel.app
 <h2 align="center">💰 Support Me</h2>
 
 <div align="center">
-  <table align="center">
+  <table>
     <tr>
       <td>
         <a href="https://www.paypal.com/donate/?hosted_button_id=4G9X8TDNYYNKG" target="_blank">
@@ -320,7 +324,7 @@ https://techstack-generator.vercel.app
   <table>
     <tr>
       <td>
-        <img src="https://matrix.org/images/matrix-logo-white.svg" height="30" alt="Matrix Icon"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Matrix_logo.svg/220px-Matrix_logo.svg.png" height="30" alt="Matrix Icon"/>
       </td>
       <td>
         <img src="https://element.io/images/logo-mark-primary.svg" height="30" alt="Element Icon"/>
@@ -332,20 +336,22 @@ https://techstack-generator.vercel.app
 
 <br>
 
-<table align="center">
-  <tr>
-    <td>
-      <a href="https://www.linkedin.com/in/fabian-f-1979701b1/" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Ffabian-f-1979701b1%2F&subtitle=@Fabian+Fuchs&size=square" alt="Linkedin Fabian Fuchs"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://discordapp.com/users/535581660067004491" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fdiscordapp.com%2Fusers%2F535581660067004491&subtitle=fuchsf01&size=square" alt="Discord fuchsf01">
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <a href="https://www.linkedin.com/in/fabian-f-1979701b1/" target="_blank">
+          <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Ffabian-f-1979701b1%2F&subtitle=@Fabian+Fuchs&size=square" alt="Linkedin Fabian Fuchs"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://discordapp.com/users/535581660067004491" target="_blank">
+          <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fdiscordapp.com%2Fusers%2F535581660067004491&subtitle=fuchsf01&size=square" alt="Discord fuchsf01">
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <h3>
   <div align="center">
