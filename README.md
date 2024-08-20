@@ -321,6 +321,9 @@ https://techstack-generator.vercel.app
 <h2 align="center">📫 Let's Connect!</h2>
 
 <div align="center">
+  <!--
+  https://github.com/JulianKominovic/bentisca/issues/1
+  -->
   <table>
     <tr>
       <td>
@@ -355,7 +358,7 @@ https://techstack-generator.vercel.app
 
 <h3>
   <div align="center">
-    ⭐️ From <a href="https://github.com/fuchs-fabian" target="_blank">Fabian Fuchs</a> | Let's simplify everyday FOSS life together 🚀
+    ⭐️ From <a href="https://github.com/fuchs-fabian" target="_blank">Fabian Fuchs</a> | Let's simplify everyday FOSS life together! 🚀
   </div>
 </h3>
 
