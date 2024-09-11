@@ -211,6 +211,29 @@ https://techstack-generator.vercel.app
 
 <h3 align="center">🐧 Linux</h3>
 
+<h4 align="center">📤️ simbashlog</h4>
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <a href="https://github.com/fuchs-fabian/simbashlog">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=fuchs-fabian&repo=simbashlog&theme=ambient_gradient&hide_border=true&border_radius=10" alt="Repository esase"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/fuchs-fabian/simbashlog-notifiers">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=fuchs-fabian&repo=simbashlog-notifiers&theme=holi&hide_border=true&border_radius=10" alt="Repository esase"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<h4 align="center">
+  <img src="https://raw.githubusercontent.com/fuchs-fabian/esase/main/desktop/esase-icon.png" alt="Example Image" width="20" height="20" style="vertical-align: middle;"> ease
+</h4>
+
 <div align="center">
   <table>
     <tr>
