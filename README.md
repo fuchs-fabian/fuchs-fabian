@@ -338,6 +338,21 @@ https://techstack-generator.vercel.app
   </table>
 </div>
 
+<h3 align="center">📁 Other</h3>
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <a href="https://github.com/fuchs-fabian/matrix-notify-py">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=fuchs-fabian&repo=matrix-notify-py&theme=holi&hide_border=true&border_radius=10" alt="Repository matrix-notify-py"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+
 <h2 align="center">💰 Support Me</h2>
 
 <div align="center">
