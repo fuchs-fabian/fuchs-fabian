@@ -218,12 +218,26 @@ https://techstack-generator.vercel.app
     <tr>
       <td>
         <a href="https://github.com/fuchs-fabian/simbashlog">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=fuchs-fabian&repo=simbashlog&theme=ambient_gradient&hide_border=true&border_radius=10" alt="Repository esase"/>
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=fuchs-fabian&repo=simbashlog&theme=ambient_gradient&hide_border=true&border_radius=10" alt="Repository simbashlog"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<h5 align="center">📨 simbashlog-notifiers</h5>
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <a href="https://github.com/fuchs-fabian/simbashlog-notifiers">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=fuchs-fabian&repo=simbashlog-notifiers&theme=holi&hide_border=true&border_radius=10" alt="Repository simbashlog-notifiers"/>
         </a>
       </td>
       <td>
-        <a href="https://github.com/fuchs-fabian/simbashlog-notifiers">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=fuchs-fabian&repo=simbashlog-notifiers&theme=holi&hide_border=true&border_radius=10" alt="Repository esase"/>
+        <a href="https://github.com/fuchs-fabian/simbashlog-notify-helper-py">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=fuchs-fabian&repo=simbashlog-notify-helper-py&theme=holi&hide_border=true&border_radius=10" alt="Repository simbashlog notify helper (Python)"/>
         </a>
       </td>
     </tr>
