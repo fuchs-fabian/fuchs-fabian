@@ -221,23 +221,23 @@ https://techstack-generator.vercel.app
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=fuchs-fabian&repo=simbashlog&theme=ambient_gradient&hide_border=true&border_radius=10" alt="Repository simbashlog"/>
         </a>
       </td>
-    </tr>
-  </table>
-</div>
-
-<h5 align="center">📨 simbashlog-notifiers</h5>
-
-<div align="center">
-  <table>
-    <tr>
       <td>
         <a href="https://github.com/fuchs-fabian/simbashlog-notifiers">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=fuchs-fabian&repo=simbashlog-notifiers&theme=holi&hide_border=true&border_radius=10" alt="Repository simbashlog-notifiers"/>
         </a>
       </td>
+    </tr>
+  </table>
+</div>
+
+<h5 align="center">🐋 Docker</h5>
+
+<div align="center">
+  <table>
+    <tr>
       <td>
-        <a href="https://github.com/fuchs-fabian/simbashlog-notify-helper-py">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=fuchs-fabian&repo=simbashlog-notify-helper-py&theme=holi&hide_border=true&border_radius=10" alt="Repository simbashlog notify helper (Python)"/>
+        <a href="https://github.com/fuchs-fabian/simbashlog-debian-docker-template">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=fuchs-fabian&repo=simbashlog-debian-docker-template&theme=holi&hide_border=true&border_radius=10" alt="Repository simbashlog-debian-docker-template"/>
         </a>
       </td>
     </tr>
@@ -283,8 +283,8 @@ https://techstack-generator.vercel.app
         </a>
       </td>
       <td>
-        <a href="https://github.com/fuchs-fabian/Checkmk-Matrix-Notifications">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=fuchs-fabian&repo=Checkmk-Matrix-Notifications&theme=holi&hide_border=true&border_radius=10" alt="Repository Checkmk-Matrix-Notifications"/>
+        <a href="https://github.com/fuchs-fabian/dnscrypt-proxy-guide">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=fuchs-fabian&repo=dnscrypt-proxy-guide&theme=holi&hide_border=true&border_radius=10" alt="Repository Heimdall-Catppuccin-Theme-Dark-Light-Mode"/>
         </a>
       </td>
     </tr>
@@ -338,6 +338,20 @@ https://techstack-generator.vercel.app
   </table>
 </div>
 
+<h5 align="center">🐋 Docker</h5>
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <a href="https://github.com/fuchs-fabian/satissavebak">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=fuchs-fabian&repo=satissavebak&theme=holi&hide_border=true&border_radius=10" alt="Repository satissavebak"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
 
 <h2 align="center">💰 Support Me</h2>
 
@@ -358,24 +372,14 @@ https://techstack-generator.vercel.app
 
 <h2 align="center">📫 Let's Connect!</h2>
 
-<div align="center">
-  <!--
-  https://github.com/JulianKominovic/bentisca/issues/1
-  -->
-  <table>
-    <tr>
-      <td>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Matrix_logo.svg/220px-Matrix_logo.svg.png" height="30" alt="Matrix Icon"/>
-      </td>
-      <td>
-        <img src="https://element.io/images/logo-mark-primary.svg" height="30" alt="Element Icon"/>
-      </td>
-    </tr>
-  </table>
-  <a href="https://matrix.to/#/@fuchsf:matrix.org" style="font-size: 1.2em;" target="_blank">@fuchsf:matrix.org</a>
-</div>
-
-<br>
+<!--
+https://github.com/JulianKominovic/bentisca/issues/1
+-->
+<p align="center">
+  <a href="https://matrix.to/#/@fuchsf:matrix.org">
+    <img alt="Matrix" src="https://img.shields.io/badge/matrix-000000?style=for-the-badge&logo=Matrix&logoColor=white">
+  </a>
+</p>
 
 <div align="center">
   <table>
