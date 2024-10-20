@@ -211,6 +211,18 @@ https://techstack-generator.vercel.app
 
 <h3 align="center">🐧 Linux</h3>
 
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <a href="https://github.com/fuchs-fabian/dotfiles">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=fuchs-fabian&repo=dotfiles&theme=holi&hide_border=true&border_radius=10" alt="Repository dotfiles" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
 <h4 align="center">📤️ simbashlog</h4>
 
 <div align="center">
