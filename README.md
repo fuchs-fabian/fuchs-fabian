@@ -309,6 +309,11 @@ https://techstack-generator.vercel.app
   <table>
     <tr>
       <td>
+        <a href="https://github.com/fuchs-fabian/fritznetdevices">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=fuchs-fabian&repo=fritznetdevices&theme=holi&hide_border=true&border_radius=10" alt="Repository fritznetdevices" />
+        </a>
+      </td>
+      <td>
         <a href="https://github.com/fuchs-fabian/TinyTuya-Cleaner">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=fuchs-fabian&repo=TinyTuya-Cleaner&theme=holi&hide_border=true&border_radius=10" alt="Repository TinyTuya-Cleaner"/>
         </a>
