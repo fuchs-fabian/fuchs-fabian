@@ -15,7 +15,7 @@ jobs:
         with:
           token: ${{ secrets.GH_TOKEN }}
 
-      - name: Remove README.md from deployment folder
+      - name: Prepare deployment folder
         run: |
           mkdir .public
           cp -r * .public
