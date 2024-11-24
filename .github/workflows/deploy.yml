@@ -19,7 +19,7 @@ jobs:
           cp -r * .public
           rm .public/README.md
           rm .public/LICENSE
-          rm -r .public/.github
+          rm -r .public/.github || true
 
       - name: Deploy to GitHub Pages
         uses: JamesIves/github-pages-deploy-action@v4
