@@ -12,6 +12,8 @@ jobs:
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GH_TOKEN }}
 
       - name: Remove README.md from deployment folder
         run: |
@@ -26,3 +28,4 @@ jobs:
         with:
           branch: gh-pages
           folder: .public
+          token: ${{ secrets.GH_TOKEN }}
