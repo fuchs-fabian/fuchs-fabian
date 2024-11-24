@@ -1,0 +1,28 @@
+name: Deploy Website
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Remove README.md from deployment folder
+        run: |
+          mkdir .public
+          cp -r * .public
+          rm .public/README.md
+          rm .public/LICENSE
+          rm -r .public/.github
+
+      - name: Deploy to GitHub Pages
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          branch: gh-pages
+          folder: .public
